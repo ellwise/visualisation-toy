@@ -2,6 +2,6 @@
 
 A tool for playing with data visualisations.
 
-[![Launch with Binder](https://mybinder.org/badge_logo.svg)](
-  https://mybinder.org/v2/gh/ellwise/visualisation-toy/HEAD?labpath=main.ipynb
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/ellwise/visualisation-toy/blob/main/main.py
 )
