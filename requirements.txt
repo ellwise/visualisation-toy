@@ -1,2 +1,2 @@
-dash
-colab-dash
+kindergarten
+plotly
